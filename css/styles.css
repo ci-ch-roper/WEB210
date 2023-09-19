@@ -1,0 +1,47 @@
+/* CSS HEX 
+--dim-gray: #7a7265ff;
+--silver: #c0b7b1ff;
+--raw-umber: #8e6e53ff;
+--lion: #c69c72ff;
+--jet: #433e3fff;
+*/
+
+/*Global Styles 
+----------------------------------------*/
+body{
+    color:#433e3f;
+
+}
+img{
+    width: 300px;
+}
+
+a{
+    color:white;
+}
+a:hover{
+    text-decoration: none;
+
+}
+
+/*Profile
+----------------------------------------*/
+header{
+    background-color:#7a7265;
+    color:#c0b7b1;
+}
+
+
+/* Work Experience 
+----------------------------------------*/
+.work-experience{
+    background-color:#c69c72;
+}
+/*Education
+----------------------------------------*/
+/* Contact Information
+----------------------------------------*/
+footer{
+    color:#c0b7b1;
+    background-color:#433e3f;
+}
